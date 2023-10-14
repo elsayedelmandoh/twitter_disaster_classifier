@@ -50,7 +50,7 @@ The best-performing model is loaded for test on new data, to classify new tweets
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/disaster-tweet-classification.git
+   git clone https://github.com/elsayedelmandoh/twitter_disaster_classifier.git
 
 2. **Run the notebook:**
    ```bash
