@@ -9,6 +9,7 @@
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
 - [Save Model](#save-model)
+- [Load Model](#load-model)
 - [How to Use](#how-to-use)
 - [Author](#author)
 
@@ -40,6 +41,10 @@ The final model is evaluated on a test set, and metrics such as accuracy, a clas
 ## Save Model
 
 The best-performing model is saved for future use. It can be loaded and used to classify new tweets.
+
+## Load Model
+
+The best-performing model is loaded for test on new data, to classify new tweets.
 
 ## How to Use
 
