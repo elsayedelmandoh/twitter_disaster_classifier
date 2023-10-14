@@ -52,9 +52,8 @@ The best-performing model is loaded for test on new data, to classify new tweets
    ```bash
    git clone https://github.com/elsayedelmandoh/twitter_disaster_classifier.git
 
-2. **Run the notebook:**
-   ```bash
-   python twitter_disaster_classifier.ipynb
+2. **Open the notebook:**
+   twitter_disaster_classifier.ipynb
 
 
 ## Author
