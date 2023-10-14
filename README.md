@@ -11,7 +11,6 @@
 - [Save Model](#save-model)
 - [How to Use](#how-to-use)
 - [Author](#author)
-- 
 
 ## Project Overview
 
