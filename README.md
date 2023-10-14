@@ -1,8 +1,22 @@
 # Disaster Tweet Classification
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Data Exploration](#data-exploration)
+- [Data Preparation](#data-preparation)
+- [Model Building](#model-building)
+- [Model Evaluation](#model-evaluation)
+- [Save Model](#save-model)
+- [How to Use](#how-to-use)
+- [Author](#author)
+- 
+
 ## Project Overview
 
 Natural disasters can have a significant impact on people's lives, and social media has become an important source of information during such events. This project aims to build a machine learning model that can classify tweets as disaster-related or not, based on their text content. The project utilizes Natural Language Processing (NLP) techniques to preprocess and analyze the text and trains several machine learning models to predict the classification of each tweet.
+
 
 ## Data
 
