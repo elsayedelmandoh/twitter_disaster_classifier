@@ -11,6 +11,7 @@
 - [Save Model](#save-model)
 - [Load Model](#load-model)
 - [How to Use](#how-to-use)
+- [Contributing](#contributing)
 - [Author](#author)
 
 ## Project Overview
@@ -55,7 +56,12 @@ The best-performing model is loaded for test on new data, to classify new tweets
 2. **Open the notebook:**
    twitter_disaster_classifier.ipynb
 
+## Contributing
+
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
 ## Author
-  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
 
+This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to NLP and Deep learning.
+
+Happy coding and NLP!
